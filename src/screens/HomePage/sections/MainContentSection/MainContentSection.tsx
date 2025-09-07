@@ -272,7 +272,7 @@ export const MainContentSection = ({
 
               <div className='flex max-w-[820px] items-center px-5 py-0 mx-[-150px]'>
                 <p className='flex-1 opacity-80 font-body-base-regular text-[#343844] text-center'>
-                  At AlokaSoftware, we blend deep technical expertise with
+                  At AlokaSoft, we blend deep technical expertise with
                   forward-looking vision to help businesses thrive in the
                   digital era. With a rich history in delivering AI-driven,
                   cloud-first, and data-centric platforms, we specialize in
@@ -476,7 +476,7 @@ export const MainContentSection = ({
           </h2>
 
           <p className="text-modmathblack text-xl tracking-[-0.20px] leading-7 font-normal mb-12 max-w-[530px]">
-       At Aloka Software, we believe in a structured yet flexible approach to delivering technology solutions that align with your business goals. Our process ensures clarity, efficiency, and measurable results.
+       At AlokaSoft, we believe in a structured yet flexible approach to delivering technology solutions that align with your business goals. Our process ensures clarity, efficiency, and measurable results.
           </p>
 
           <Button className="w-32 h-10     px-5 py-3 bg-[#12A16B] rounded-xl text-white">

@@ -61,7 +61,7 @@ import ai from '../../../../assets/AI.png';
         icon: one,
         title: 'Business Development',
         description:
-          "Receive automated insights and recommendations tailored to your business needs. Let Aloka Software's AI guide your strategies.",
+          "Receive automated insights and recommendations tailored to your business needs. Let AlokaSoft's AI guide your strategies.",
       },
   
       {

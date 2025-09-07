@@ -38,11 +38,11 @@ export const FooterSection = ({ handleNavClick,}): JSX.Element => {
     {
       title: "Address",
       links: [
-        { text: "Ven Reddy", url: "#" },
-        { text: "345 scotch creek rd, coppell, DFW, USA 75019", url: "#" },
-        { text: "E-Mail: venreddysnow@gmail.com", url: "#" },
-        { text: "Company Name:alokasoftware.com", url: "#" },
-        { text: "Phone: 224-228-3646", url: "#" },
+        { text: "AlokaSoft", url: "#" },
+        { text: "8951 Cypress Waters Blvd suite 160,Coppell,TX 75019", url: "#" },
+        { text: "E-Mail: Info@alokasoft.com", url: "#" },
+        { text: "Company Name:alokasoft.com", url: "#" },
+        { text: "Phone: 972-302-1010", url: "#" },
       ],
     },
     {
@@ -79,7 +79,7 @@ export const FooterSection = ({ handleNavClick,}): JSX.Element => {
         },
         {
           text: "Linkedin",
-          url: "#",
+          url: "https://www.linkedin.com/company/108089334/admin/dashboard/",
           icon: <LinkedinIcon className="w-[18px] h-[18px]" />,
         },
       ],
@@ -88,8 +88,8 @@ export const FooterSection = ({ handleNavClick,}): JSX.Element => {
 
   const footerCategoriesMobile = [
     {
-      title: "About AlokaSoftware",
-      links: ["Address:","AlokaSoftware ","SOLUTIONS ","INC.","3345 Scotch Creek Road Coppell, DFW 75019, U.S.A.","Email:","venreddysnow@gmail.com","Phone:", "224-228-3646",],
+      title: "About AlokaSoft",
+      links: ["Address:","AlokaSoft ","8951 Cypress Waters Blvd suite 160,Coppell,TX 75019, U.S.A.","Email:","Info@alokasoft.com","Phone:", "972-302-1010",],
     },
     {
       title: "Resources",
@@ -127,7 +127,7 @@ export const FooterSection = ({ handleNavClick,}): JSX.Element => {
           <div className="flex items-center gap-5 w-full">
             <div className="relative w-[113.78px] h-12" >    <img
                             src={logo}
-                            alt="Aloka Soft"
+                            alt="AlokaSoft"
                             className="absolute w-[180] h-[30] top-[-30px] left-0"
                             /></div>
             <div className="flex flex-col h-px items-center justify-center gap-2 flex-1">
@@ -198,7 +198,7 @@ export const FooterSection = ({ handleNavClick,}): JSX.Element => {
         <Separator className="w-full h-px" />
         <footer className="flex flex-wrap items-center justify-center gap-6 py-5 w-full">
           <div className="flex-1 font-body-sm-regular text-[#343844] text-[length:var(--body-sm-regular-font-size)] tracking-[var(--body-sm-regular-letter-spacing)] leading-[var(--body-sm-regular-line-height)]">
-            ©2025 AlokaSoftware · All rights reserved.
+            ©2025 AlokaSoft · All rights reserved.
           </div>
         
         </footer>

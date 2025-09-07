@@ -17,62 +17,62 @@ import ava from '../../../../assets/ava.png';
     const testimonials = [
     {
       quote:
-        "Thanks to their cloud migration strategy, we reduced our infrastructure costs and scaled seamlessly—without any downtime",
-      name: "Madison Cole",
-      title: "Operations Lead",
+        "ServiceNow transformed the way our IT team manages incidents. What used to take hours is now resolved in minutes, thanks to automation and clear workflows.",
+      name: "Anita Sharma",
+      title: "IT Manager",
       avatarSrc: ava,
     },
     {
-      quote:"With their Power BI expertise, we now make faster, data-driven decisions—what used to take hours now takes minutes.",
-      name: "Jackson Reed",
-      title: "Marketing Manager",
-      avatarSrc: ava,
-    },
-    {
-      quote:
-        "Their Python automation saved us hundreds of hours. Routine tasks that took days are now completed in just a few clicks.",
-      name: "Avery Bennett",
-      title: "CTO",
+      quote:"With ServiceNow, our HR processes became far more transparent and efficient. Employee onboarding is smoother, and queries no longer pile up.",
+      name: "Michael Rodriguez",
+      title: "HR Director",
       avatarSrc: ava,
     },
     {
       quote:
-        "The AI solution they built helped us understand customer behavior and boost retention by over 25%.",
-      name: "Logan Brooks",
-      title: "COO, Retail Chain",
+        "The best part about ServiceNow is its scalability. We started small with ITSM, and today we’re using it across procurement, finance, and facilities without any hiccups.",
+      name: "Priya Nair",
+      title: "CIO",
       avatarSrc: ava,
     },
     {
       quote:
-        "They modernized our legacy app into a sleek, high-performance platform—our users noticed the difference instantly",
-      name: " Harper Sullivan",
-      title: "CTO, FinTech startup",
+        "Salesforce gave us a 360° view of our customers. Our sales pipeline is now crystal clear, and forecasting has become much more accurate.",
+      name: "Arjun Mehta",
+      title: "Sales Director",
       avatarSrc: ava,
     },
     {
       quote:
-        "We sleep better knowing our backups are automated and disaster-ready. Their secured backup solution is rock solid.",
-      name: "Mason Grant",
-      title: "Operations Director",
+        "The automation features in Salesforce helped us cut down manual data entry by half. Our reps can finally focus on selling instead of paperwork.",
+      name: "Emily Turner",
+      title: "Account Executive",
       avatarSrc: ava,
     },
     {
       quote:
-        "Real-time data integration changed how we operate. We now track shipments live and optimize routes on the go",
-      name: "Chloe Hayes",
-      title: "CTO",
+        "Workday completely streamlined our payroll and benefits management. Employees are happier because everything is transparent and easy to access.",
+      name: "Ritu Desai",
+      title: "HR Head",
       avatarSrc: ava,
     },
     {
       quote:
-        "Financial forecasting is complex, but Aloka Software has simplified it for us. Its predictive analytics are second to none.",
+        "Recruitment is no longer a headache. Workday’s applicant tracking system made our hiring process faster and far more candidate-friendly.",
+      name: "Daniel White",
+      title: "Talent Acquisition Lead",
+      avatarSrc: ava,
+    },
+    {
+      quote:
+        "Financial forecasting is complex, but AlokaSoft has simplified it for us. Its predictive analytics are second to none.",
       name: "Ethan West",
       title: "Chief Financial Officer",
       avatarSrc: ava,
     },
     {
       quote:
-        "The seamless integrations and customizable dashboards make Aloka Software an indispensable tool for our business.",
+        "The seamless integrations and customizable dashboards make AlokaSoft an indispensable tool for our business.",
       name: "Riley Dawson",
       title: "CTO",
       avatarSrc: ava,
@@ -134,7 +134,7 @@ export const TestimonialCarouselSection = ({ testimonialRef }: TestimonialSectio
               max-w-[820px] w-full text-center opacity-80 font-body-base-regular
               ${isDesktop ? 'text-[#343844] px-5' : 'text-[#4b5162]'}
             `}>
-              At AlokaSoftware, we pride ourselves on delivering top-notch
+              At AlokaSoft, we pride ourselves on delivering top-notch
               technology goals. But don't just take our word for it. Hear what
               our satisfied users have to say.
             </p>

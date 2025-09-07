@@ -92,7 +92,7 @@ export const ContactFormSection = ({contactusRef} :ContactFormSectionProps): JSX
       icon: <img src={mail} alt="Mail" className="w-10 h-10" />,
       title: "Email",
       description: "Our friendly team is here to help.",
-      contact: "venreddysnow@gmail.com",
+      contact: "Info@alokasoft.com",
       type: "email"
     },
 
@@ -101,14 +101,14 @@ export const ContactFormSection = ({contactusRef} :ContactFormSectionProps): JSX
       icon: <img src={phone} alt="Phone" className="w-10 h-10" />,
       title: "Phone",
       description: "Mon-Fri from 8am to 5pm.",
-      contact: "224-228-3646",
+      contact: "972-302-1010",
       type: "phone"
     },
      {
       icon: <img src={office} alt="Office" className="w-10 h-10" />,
       title: "Office",
       description: "Come say hello at our office HQ.",
-      contact: "Aloka Software. \n3345 Scotch Creek Road Coppell, DFW 75019, U.S.A.",
+      contact: "AlokaSoft. \n8951 Cypress Waters Blvd suite 160,Coppell,TX 75019,U.S.A.",
       type: "address"
     },
   ];

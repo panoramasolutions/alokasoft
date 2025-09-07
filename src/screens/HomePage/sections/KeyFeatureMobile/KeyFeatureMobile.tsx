@@ -30,7 +30,7 @@ import {
       icon: future,
       title: 'Data-Driven Decisions',
       description:
-        "Whether you're a startup or an enterprise, Aloka Software scales with you. Experience robust analytics solutions that adapt to your growth.",
+        "Whether you're a startup or an enterprise, AlokaSoft scales with you. Experience robust analytics solutions that adapt to your growth.",
     },
 
     {
@@ -77,7 +77,7 @@ export const KeyFeatureMobile = ({keyFeaturesRef}): JSX.Element => {
           </h2>
 
           <p className="text-modmathblack  tracking-[-0.20px] leading-7 font-normal mb-12 max-w-[530px] text-[16px]">
-       At Aloka Software, we believe in a structured yet flexible approach to delivering technology solutions that align with your business goals. Our process ensures clarity, efficiency, and measurable results.
+       At AlokaSoft, we believe in a structured yet flexible approach to delivering technology solutions that align with your business goals. Our process ensures clarity, efficiency, and measurable results.
           </p>
 
           <Button className="w-32 h-10     px-5 py-3 bg-[#12A16B] rounded-xl text-white">

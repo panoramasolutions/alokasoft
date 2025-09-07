@@ -78,13 +78,12 @@ export const ValuePropositionSection = ({aboutusRef}): JSX.Element => {
         </div>
 
         {/* Feature cards section */}
-        <div className="flex flex-col justify-center w-full h-full">
-          <div className="flex flex-wrap items-start h-full justify-center gap-4 sm:gap-4 gap-[12px] w-full">
+        <div className="flex flex-col justify-center w-full">
+          <div className="flex flex-wrap items-start justify-center gap-4 sm:gap-4 gap-[12px] w-full">
             {featureCards.map((card, index) => (
               <Card
                 key={index}
-                className="flex flex-col  items-start justify-start  flex-1 bg-white rounded-xl z-[2]"
-                style={{height:"-webkit-fill-available"}}
+                className="flex flex-col  items-start justify-center flex-1 bg-white rounded-xl z-[2]"
               >
                 <CardContent className="flex flex-col gap-2 p-5 sm:p-5 px-5 py-4">
                   <div className="flex items-start gap-3 w-full">
