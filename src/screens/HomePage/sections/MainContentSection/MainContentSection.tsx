@@ -3,21 +3,16 @@ import { Badge } from '../../../../components/ui/badge';
 import { Button } from '../../../../components/ui/button';
 import { Card, CardContent } from '../../../../components/ui/card';
 
-import bannervideo from '../../../../assets/bannervideo.mp4';
-import company from '../../../../assets/Pic.png';
-import companies from '../../../../assets/Pict.png';
-import whatsup from '../../../../assets/w.jpg';
+import acc from '../../../../assets/accenture-logo.png';
+import be from '../../../../assets/wellsfargo.png';
+import dail from '../../../../assets/TrueBlue_Logo.png';
+import dtcc from '../../../../assets/TEP-Logo.svg';
+import gat from '../../../../assets/tenesse.png';
+import ge from '../../../../assets/ohio.png';
+import ver from '../../../../assets/Massachusetts.png';
+import visa from '../../../../assets/at&t.png';
+import wu from '../../../../assets/aig.png';
 import bigImage from '../../../../assets/image.png';
-import be from '../../../../assets/be.jpg';
-import dail from '../../../../assets/dailmler.png';
-import download from '../../../../assets/download.jpg';
-import dtcc from '../../../../assets/dtcc.png';
-import gat from '../../../../assets/gat.png';
-import ge from '../../../../assets/ge.png';
-import ver from '../../../../assets/ver.png';
-import visa from '../../../../assets/visa.jpg';
-import wu from '../../../../assets/wu.png';
-import w from '../../../../assets/w.jpg';
 import ai from '../../../../assets/AI.png';
 import deep from '../../../../assets/deepwhite.png';
 import future from '../../../../assets/futurewhite.png';
@@ -375,6 +370,7 @@ export const MainContentSection = ({
               src={be}
               style={{ height: 60, width: 200, objectFit: 'contain' }}
             />
+             
           </div>
         </div>
       </section>
