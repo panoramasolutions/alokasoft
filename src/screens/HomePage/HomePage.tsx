@@ -14,18 +14,16 @@ import  { Button } from "../../components/ui/button";
 import { ContactFormSection } from "./sections/ContactFormSection";
 import { Toaster } from "react-hot-toast";
 
-import company from "../../assets/Pic.png";
-import companies from "../../assets/Pict.png";
-import be from '../../assets/be.jpg';
-import dail from '../../assets/dailmler.png';
-import download from '../../assets/download.jpg';
-import dtcc from '../../assets/dtcc.png';
-import gat from '../../assets/gat.png';
-import ge from '../../assets/ge.png';
-import ver from '../../assets/ver.png';
-import visa from '../../assets/visa.jpg';
-import wu from '../../assets/wu.png';
-import w from '../../assets/w.jpg';
+
+import be from '../../assets/wellsfargo.jpg';
+import dail from '../../assets/TrueBlue_Logo.png';
+import dtcc from '../../assets/TEP-Logo.png';
+import gat from '../../assets/tenesse.png';
+import ge from '../../assets/ohio.png';
+import ver from '../../assets/Massachusetts.png';
+import visa from '../../assets/at&t.jpg';
+import wu from '../../assets/aig.png';
+
 
 
 interface WindowSize {
