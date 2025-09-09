@@ -10,11 +10,12 @@ export default defineConfig(({ mode }) => ({
     port: 3000,      // Change port to 3000
   },
   plugins: [react()],
-  publicDir: "./static",
+  //publicDir: "./static",
   css: {
     postcss: {
       plugins: [tailwind()],
     },
   },
-  base:"/alokasoft/",
+  base:"/",
+  publicDir: "public",
 }));
