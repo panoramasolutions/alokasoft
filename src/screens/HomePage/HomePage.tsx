@@ -14,14 +14,24 @@ import  { Button } from "../../components/ui/button";
 import { ContactFormSection } from "./sections/ContactFormSection";
 import { Toaster } from "react-hot-toast";
 
+//import company from "../../assets/Pic.png";
+//import companies from "../../assets/Pict.png";
+//import be from '../../../../assets/wellsfargo.jpg';
+//import dail from '../../../../assets/TrueBlue_Logo.png';
+//import dtcc from '../../../../assets/TEP-Logo.png';
+//import gat from '../../../../assets/tenesse.png';
+//import ge from '../../assets/ohio.png';
+//import ver from '../../assets/Massachusetts.png';
+//import visa from '../../assets/at&t.jpg';
+//import wu from '../../assets/aig.png';
 
-import be from '../../assets/wellsfargo.jpg';
+import be from '../../assets/wellsfargo.png';
 import dail from '../../assets/TrueBlue_Logo.png';
-import dtcc from '../../assets/TEP-Logo.png';
+import dtcc from '../../assets/TEP-Logo.svg';
 import gat from '../../assets/tenesse.png';
 import ge from '../../assets/ohio.png';
 import ver from '../../assets/Massachusetts.png';
-import visa from '../../assets/at&t.jpg';
+import visa from '../../assets/at&t.png';
 import wu from '../../assets/aig.png';
 
 
